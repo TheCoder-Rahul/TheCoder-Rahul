@@ -1,10 +1,5 @@
 # 👋 Hi, I’m Rahul - The Coder
-- 👀 I’m interested in Web and Software Development
-- 🌱 I’m currently learning JavaScript, React and Node
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me thecoderahul@gmail.com
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: ...
+UI Developer with over 6 years of experience transforming complex designs into high-performance, responsive web applications. Specialized in ReactJS and JavaScript, with a proven track record at Soft Suave and TriEdge Solutions.
 
 # 💫 About Me:
 🔭 I’m currently working on improving my JS skills.<br>👯 I’m looking to collaborate on fixing the design issues in any projects with complex CSS.<br>🤝 I’m looking for help with upgrading my scripting and logic building.<br>🌱 I’m currently learning advanced ReactJS.<br>💬 Ask me about styling anything or making anything look better.<br>⚡ Fun fact, I am surely a bit late, but I will get what I want.
